@@ -12,8 +12,8 @@
       <li>Moment.JS</li>
       <li>Openweather One Call API</li>
     </ul>
-   
-<img src="iScreenshot (33).png" alt="A beautiful sunset">
+ #### Current State of Weather-Cast
+![This is a screenshot of the Weather-Cast deployed live on GitHub Pages Semi-Working in its current state!](Screenshot.png)
 
     
     
