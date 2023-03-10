@@ -13,6 +13,8 @@
       <li>Openweather One Call API</li>
     </ul>
  <h2>Screenshot of Weather-Dashboard!<h2>
+  
+  
 ![Current state of application](screenshott.png)
 
     
