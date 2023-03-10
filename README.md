@@ -12,4 +12,8 @@
       <li>Moment.JS</li>
       <li>Openweather One Call API</li>
     </ul>
+    ![Alt Text](Screenshot (33).png)
+
+    
+    
   </body>
