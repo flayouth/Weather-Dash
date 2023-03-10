@@ -12,7 +12,7 @@
       <li>Moment.JS</li>
       <li>Openweather One Call API</li>
     </ul>
-    ![Alt Text](Screenshot (33).png)
+    ![Alt Text](https://github.com/flayouth/Weather-Dashboard/blob/main/Screenshot%20(33).png)
 
     
     
