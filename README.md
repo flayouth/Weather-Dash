@@ -12,8 +12,8 @@
       <li>Moment.JS</li>
       <li>Openweather One Call API</li>
     </ul>
- 
-![This is a screenshot of the Weather-Cast deployed live on GitHub Pages Semi-Working in its current state!](screenshott.png)
+ <h2>Screenshot of Weather-Dashboard!<h2>
+![Current state of application](screenshott.png)
 
     
     
