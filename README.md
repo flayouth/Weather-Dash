@@ -11,10 +11,7 @@
       <li>Moment.JS</li>
       <li>Bootstrap</li>
       <li>Openweather One Call API</li>
-      
-      
-     
-     
+
     </ul>
  <h2>Screenshot of Weather-Dashboard!<h2>
   
@@ -23,4 +20,7 @@
 
     
     
+    
+<h2> Deployed link to Weather-Dashboard </h2>
+https://flayouth.github.io/Weather-Dashboard/
   </body>
