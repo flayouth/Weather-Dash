@@ -11,8 +11,8 @@
       <li>Moment.JS</li>
       <li>Bootstrap</li>
       <li>Openweather One Call API</li>
-
-    </ul>
+ </ul>
+ 
  <h2>Screenshot of Weather-Dashboard!<h2>
   
   
