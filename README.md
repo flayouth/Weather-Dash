@@ -12,7 +12,8 @@
       <li>Moment.JS</li>
       <li>Openweather One Call API</li>
     </ul>
-    ![Alt Text](Screenshot (33).png)
+   
+<img src="iScreenshot (33).png" alt="A beautiful sunset">
 
     
     
