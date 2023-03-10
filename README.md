@@ -21,6 +21,6 @@
     
     
     
-<h2> Deployed link to Weather-Dashboard </h2>
+<h2> Deployed link to Weather-Dashboard!</h2>
 https://flayouth.github.io/Weather-Dashboard/
   </body>
